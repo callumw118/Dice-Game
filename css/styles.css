@@ -40,6 +40,7 @@ img {
  height: 50px;
  transition-duration: 0.4s;
  color: white;
+ border-radius: 5%;
 }
 
 .btn:hover{
