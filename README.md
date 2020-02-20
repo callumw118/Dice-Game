@@ -2,4 +2,4 @@
 
 Website which rolls two dice and displays the winner.
 
-Introduces Javascript and interaciton with the DOM.
+Introduces Javascript and interaction with the DOM.
